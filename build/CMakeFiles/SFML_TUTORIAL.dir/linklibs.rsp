@@ -1,0 +1,1 @@
+  -L"D:/Engineering/CPP Learning/GameTutorial/simple_game4/Lib/SFML/src"  "Lib/SFML/lib/libsfml-graphics-d.a" "Lib/SFML/lib/libsfml-window-d.a" "Lib/SFML/lib/libsfml-system-d.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

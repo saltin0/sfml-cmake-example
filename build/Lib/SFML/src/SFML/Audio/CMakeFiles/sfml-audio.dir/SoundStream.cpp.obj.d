@@ -1,0 +1,147 @@
+Lib/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.obj: \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/src/SFML/Audio/SoundStream.cpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/Audio/SoundStream.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/Audio/Export.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/Config.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/Audio/SoundSource.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/Audio/AlResource.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Vector3.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Vector3.inl \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Thread.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Export.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/NonCopyable.hpp \
+ c:\mingw\include\c++\9.2.0\cstdlib \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\c++config.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\os_defines.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\cpu_defines.h \
+ c:\mingw\x86_64-w64-mingw32\include\stdlib.h \
+ c:\mingw\x86_64-w64-mingw32\include\corecrt.h \
+ c:\mingw\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\x86_64-w64-mingw32\include\sdks/_mingw_directx.h \
+ c:\mingw\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ c:\mingw\x86_64-w64-mingw32\include\corecrt_wstdlib.h \
+ c:\mingw\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed\limits.h \
+ c:\mingw\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed\syslimits.h \
+ c:\mingw\x86_64-w64-mingw32\include\limits.h \
+ c:\mingw\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\x86_64-w64-mingw32\include\sec_api\stdlib_s.h \
+ c:\mingw\include\c++\9.2.0\stdlib.h \
+ c:\mingw\x86_64-w64-mingw32\include\malloc.h \
+ c:\mingw\include\c++\9.2.0\bits\std_abs.h \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Thread.inl \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Time.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Mutex.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/src/SFML/Audio/AudioDevice.hpp \
+ c:\mingw\include\c++\9.2.0\set \
+ c:\mingw\include\c++\9.2.0\bits\stl_tree.h \
+ c:\mingw\include\c++\9.2.0\bits\stl_algobase.h \
+ c:\mingw\include\c++\9.2.0\bits\functexcept.h \
+ c:\mingw\include\c++\9.2.0\bits\exception_defines.h \
+ c:\mingw\include\c++\9.2.0\bits\cpp_type_traits.h \
+ c:\mingw\include\c++\9.2.0\ext\type_traits.h \
+ c:\mingw\include\c++\9.2.0\ext\numeric_traits.h \
+ c:\mingw\include\c++\9.2.0\bits\stl_pair.h \
+ c:\mingw\include\c++\9.2.0\bits\move.h \
+ c:\mingw\include\c++\9.2.0\bits\concept_check.h \
+ c:\mingw\include\c++\9.2.0\type_traits \
+ c:\mingw\include\c++\9.2.0\bits\stl_iterator_base_types.h \
+ c:\mingw\include\c++\9.2.0\bits\stl_iterator_base_funcs.h \
+ c:\mingw\include\c++\9.2.0\debug\assertions.h \
+ c:\mingw\include\c++\9.2.0\bits\stl_iterator.h \
+ c:\mingw\include\c++\9.2.0\bits\ptr_traits.h \
+ c:\mingw\include\c++\9.2.0\debug\debug.h \
+ c:\mingw\include\c++\9.2.0\bits\predefined_ops.h \
+ c:\mingw\include\c++\9.2.0\bits\allocator.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\c++allocator.h \
+ c:\mingw\include\c++\9.2.0\ext\new_allocator.h \
+ c:\mingw\include\c++\9.2.0\new c:\mingw\include\c++\9.2.0\exception \
+ c:\mingw\include\c++\9.2.0\bits\exception.h \
+ c:\mingw\include\c++\9.2.0\bits\exception_ptr.h \
+ c:\mingw\include\c++\9.2.0\bits\cxxabi_init_exception.h \
+ c:\mingw\lib\gcc\x86_64-w64-mingw32\9.2.0\include\stddef.h \
+ c:\mingw\x86_64-w64-mingw32\include\stddef.h \
+ c:\mingw\include\c++\9.2.0\typeinfo \
+ c:\mingw\include\c++\9.2.0\bits\hash_bytes.h \
+ c:\mingw\include\c++\9.2.0\bits\nested_exception.h \
+ c:\mingw\include\c++\9.2.0\bits\memoryfwd.h \
+ c:\mingw\include\c++\9.2.0\bits\stl_function.h \
+ c:\mingw\include\c++\9.2.0\backward\binders.h \
+ c:\mingw\include\c++\9.2.0\ext\alloc_traits.h \
+ c:\mingw\include\c++\9.2.0\bits\alloc_traits.h \
+ c:\mingw\include\c++\9.2.0\ext\aligned_buffer.h \
+ c:\mingw\include\c++\9.2.0\bits\stl_set.h \
+ c:\mingw\include\c++\9.2.0\initializer_list \
+ c:\mingw\include\c++\9.2.0\bits\stl_multiset.h \
+ c:\mingw\include\c++\9.2.0\bits\range_access.h \
+ c:\mingw\include\c++\9.2.0\bits\erase_if.h \
+ c:\mingw\include\c++\9.2.0\string \
+ c:\mingw\include\c++\9.2.0\bits\stringfwd.h \
+ c:\mingw\include\c++\9.2.0\bits\char_traits.h \
+ c:\mingw\include\c++\9.2.0\bits\postypes.h \
+ c:\mingw\include\c++\9.2.0\cwchar \
+ c:\mingw\x86_64-w64-mingw32\include\wchar.h \
+ c:\mingw\x86_64-w64-mingw32\include\_mingw_off_t.h \
+ c:\mingw\x86_64-w64-mingw32\include\_mingw_stat64.h \
+ c:\mingw\x86_64-w64-mingw32\include\swprintf.inl \
+ c:\mingw\x86_64-w64-mingw32\include\sec_api\wchar_s.h \
+ c:\mingw\include\c++\9.2.0\cstdint \
+ c:\mingw\lib\gcc\x86_64-w64-mingw32\9.2.0\include\stdint.h \
+ c:\mingw\x86_64-w64-mingw32\include\stdint.h \
+ c:\mingw\include\c++\9.2.0\bits\localefwd.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\c++locale.h \
+ c:\mingw\include\c++\9.2.0\clocale \
+ c:\mingw\x86_64-w64-mingw32\include\locale.h \
+ c:\mingw\x86_64-w64-mingw32\include\stdio.h \
+ c:\mingw\x86_64-w64-mingw32\include\sec_api\stdio_s.h \
+ c:\mingw\include\c++\9.2.0\iosfwd c:\mingw\include\c++\9.2.0\cctype \
+ c:\mingw\x86_64-w64-mingw32\include\ctype.h \
+ c:\mingw\include\c++\9.2.0\bits\ostream_insert.h \
+ c:\mingw\include\c++\9.2.0\bits\cxxabi_forced.h \
+ c:\mingw\include\c++\9.2.0\bits\basic_string.h \
+ c:\mingw\include\c++\9.2.0\ext\atomicity.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\gthr.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\gthr-default.h \
+ c:\mingw\x86_64-w64-mingw32\include\pthread.h \
+ c:\mingw\x86_64-w64-mingw32\include\errno.h \
+ c:\mingw\x86_64-w64-mingw32\include\sys\types.h \
+ c:\mingw\x86_64-w64-mingw32\include\process.h \
+ c:\mingw\x86_64-w64-mingw32\include\corecrt_startup.h \
+ c:\mingw\x86_64-w64-mingw32\include\signal.h \
+ c:\mingw\x86_64-w64-mingw32\include\pthread_signal.h \
+ c:\mingw\x86_64-w64-mingw32\include\sys\timeb.h \
+ c:\mingw\x86_64-w64-mingw32\include\sec_api\sys\timeb_s.h \
+ c:\mingw\x86_64-w64-mingw32\include\pthread_compat.h \
+ c:\mingw\x86_64-w64-mingw32\include\pthread_unistd.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\atomic_word.h \
+ c:\mingw\include\c++\9.2.0\ext\string_conversions.h \
+ c:\mingw\include\c++\9.2.0\cstdio c:\mingw\include\c++\9.2.0\cerrno \
+ c:\mingw\include\c++\9.2.0\bits\functional_hash.h \
+ c:\mingw\include\c++\9.2.0\bits\basic_string.tcc \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/src/SFML/Audio/ALCheck.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/extlibs/headers/AL/al.h \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/extlibs/headers/AL/alc.h \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Sleep.hpp \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Err.hpp \
+ c:\mingw\include\c++\9.2.0\ostream c:\mingw\include\c++\9.2.0\ios \
+ c:\mingw\include\c++\9.2.0\bits\ios_base.h \
+ c:\mingw\include\c++\9.2.0\bits\locale_classes.h \
+ c:\mingw\include\c++\9.2.0\bits\locale_classes.tcc \
+ c:\mingw\include\c++\9.2.0\system_error \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\error_constants.h \
+ c:\mingw\include\c++\9.2.0\stdexcept \
+ c:\mingw\include\c++\9.2.0\streambuf \
+ c:\mingw\include\c++\9.2.0\bits\streambuf.tcc \
+ c:\mingw\include\c++\9.2.0\bits\basic_ios.h \
+ c:\mingw\include\c++\9.2.0\bits\locale_facets.h \
+ c:\mingw\include\c++\9.2.0\cwctype \
+ c:\mingw\x86_64-w64-mingw32\include\wctype.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\ctype_base.h \
+ c:\mingw\include\c++\9.2.0\bits\streambuf_iterator.h \
+ c:\mingw\include\c++\9.2.0\x86_64-w64-mingw32\bits\ctype_inline.h \
+ c:\mingw\include\c++\9.2.0\bits\locale_facets.tcc \
+ c:\mingw\include\c++\9.2.0\bits\basic_ios.tcc \
+ c:\mingw\include\c++\9.2.0\bits\ostream.tcc \
+ D:/Engineering/CPP\ Learning/GameTutorial/simple_game4/Lib/SFML/include/SFML/System/Lock.hpp

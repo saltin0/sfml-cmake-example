@@ -1,0 +1,1 @@
+-I"D:/Engineering/CPP Learning/GameTutorial/simple_game4/Lib/SFML/include" -I"D:/Engineering/CPP Learning/GameTutorial/simple_game4/Lib/SFML/src" -I"D:/Engineering/CPP Learning/GameTutorial/simple_game4/Lib/SFML/extlibs/headers/stb_image" -I"D:/Engineering/CPP Learning/GameTutorial/simple_game4/Lib/SFML/extlibs/headers/freetype2" -IC:/MinGW/include/freetype2
